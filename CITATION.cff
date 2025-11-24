@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Optimization of Energy Consumption in IoT Networks Using EDLIoT Algorithm"
+authors:
+  - family-names: Babaei
+    given-names: Maryam
+  - family-names: Qorban Nia Dalavar
+    given-names: Arash
+date-released: 2025-11-24
+doi: 10.5281/zenodo.17697560
+url: https://zenodo.org/record/17697560
+version: 1.0
+type: paper
+license: CC-BY-4.0
+keywords:
+  - IoT
+  - EDLIoT
+  - Energy Optimization
+  - Latency Reduction
+  - Smart Networks
+  - Scheduling Algorithm
+  - Edge Computing
